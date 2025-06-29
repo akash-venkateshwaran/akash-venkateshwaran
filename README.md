@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Akash
 
-> **Research Engineer | MASc from UBC | Scientific Machine Learning Expert**
-
-I am a passionate research engineer dedicated to building data-driven solutions that solve complex engineering and business problems. My expertise spans **Scientific Machine Learning (SciML)**, **Operations Research**, and **Computational Physics**, with a focus on developing predictive models for marine, environmental, and industrial applications.
+> **Research Engineer | Data Scientist | Machine Learning Engineer**
+I’m a UBC-trained research engineer with over two years of experience building data-driven solutions for complex engineering and business challenges. My expertise spans Scientific Machine Learning (SciML), Operations Research, and Computational Physics, with a focus on developing predictive models for marine, environmental, and industrial applications.
 
 
 
