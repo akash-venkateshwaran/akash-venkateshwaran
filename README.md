@@ -21,3 +21,7 @@ I am a passionate research engineer dedicated to building data-driven solutions 
 
 ---
 
+## 📫 Get in Touch
+
+- 🌐 **Portfolio:** [akashvenkateshwaran.net](https://akashvenkateshwaran.net/)
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/akashvenkateshwaran)
