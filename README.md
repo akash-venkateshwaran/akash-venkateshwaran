@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Akash Venkateshwaran
+# 👋 Hi, I'm Akash
 
 > **Research Engineer | MASc from UBC | Scientific Machine Learning Expert**
 
