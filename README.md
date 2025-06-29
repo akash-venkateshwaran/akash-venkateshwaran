@@ -25,3 +25,17 @@ I’m a UBC-trained research engineer with over two years of experience building
 
 - 🌐 **Portfolio:** [akashvenkateshwaran.net](https://akashvenkateshwaran.net/)
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/akashvenkateshwaran)
+
+---
+
+## 📄 Resume
+
+<div align="center">
+  <a href="./Akash_Venkateshwaran_Resume_Refined.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
+  </a>
+</div>
+
+---
+
+*Interested in collaboration? Let's connect and build something amazing together!*
