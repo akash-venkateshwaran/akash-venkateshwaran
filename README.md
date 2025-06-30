@@ -9,15 +9,26 @@ I’m a UBC-trained research engineer with over two years of experience building
 
 ## 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
+<img align="left" alt="Python"               width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="PyTorch"             width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Pandas"              width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy"               width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Docker"              width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Git"                 width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux"               width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="MySQL"               width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<!-- Fixed XGBoost logo -->
+<img align="left" alt="XGBoost"             width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" />
+
+<!-- Third-party libraries, resized to match -->
+<img align="left" alt="sktime"              width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sktime/sktime/main/docs/source/images/sktime-logo.png" />
+<img align="left" alt="PyTorch Forecasting" width="120px" style="padding-right:10px;" src="https://raw.githubusercontent.com/sktime/pytorch-forecasting/main/docs/source/_static/logo.svg" />
+<img align="left" alt="Ray"                 width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_logo.png" />
+<img align="left" alt="Optuna"              width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" />
+<img align="left" alt="Dask"                width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/dask/dask/main/docs/source/images/dask_horizontal.svg" />
+<br/>
+
 
 ---
 
