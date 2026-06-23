@@ -40,7 +40,7 @@ I am a UBC-educated engineer with over 3 years of experience translating complex
   <a href="https://linkedin.com/in/akashvenkateshwaran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="./Akash_Venkateshwaran_Resume_Refined.pdf" download>
+  <a href="./Akash Venkateshwaran Resume.pdf" download>
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"/>
   </a>
 </div>
