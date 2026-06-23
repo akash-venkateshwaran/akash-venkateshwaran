@@ -3,7 +3,7 @@
 
 > **Data Scientist | Machine Learning Engineer**
 
-I am a UBC-educated engineer with over 3 years of experience translating complex business challenges into scalable AI products. My focus extends beyond training algorithms; I engineer end-to-end ML pipelines and build robust applications that support users at scale. I specialize in time series forecasting, scientific machine learning, operations research, and computational optimization, delivering highly calibrated models that drive strategic business value.
+I am a UBC-educated engineer with over 3 years of experience translating complex business challenges into scalable AI products. My focus extends beyond training algorithms; I engineer end-to-end ML pipelines and build robust applications that support users at scale. I specialize in time series forecasting, scientific machine learning, operations research, and computational optimization, delivering ML products that drive strategic business value.
 
 
 ## 🧰 Languages and Tools
